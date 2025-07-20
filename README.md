@@ -129,10 +129,4 @@ churn-prediction/
 
 ---
 
-## Contact & Collaboration
-- **Repository shared with:** dinamedy@hotmail.com (GitHub), hadjem.m@gmail.com (GitLab)
-- **For questions or contributions:** Please open an issue or pull request in the repository.
-
----
-
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
