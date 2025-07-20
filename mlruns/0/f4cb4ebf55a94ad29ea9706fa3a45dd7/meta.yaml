@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/purnimaprabha/Downloads/AI%20Project%20Methodology-1/churn-prediction/mlruns/0/f4cb4ebf55a94ad29ea9706fa3a45dd7/artifacts
+end_time: 1753019682698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4cb4ebf55a94ad29ea9706fa3a45dd7
+run_name: mercurial-cod-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753019657313
+status: 3
+tags: []
+user_id: purnimaprabha

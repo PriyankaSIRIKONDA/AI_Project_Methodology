@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/purnimaprabha/Downloads/AI%20Project%20Methodology-1/churn-prediction/mlruns/0/d83225ac572549d5af491890ff16f7ee/artifacts
+end_time: 1753018300824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d83225ac572549d5af491890ff16f7ee
+run_name: merciful-asp-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753018285204
+status: 3
+tags: []
+user_id: purnimaprabha

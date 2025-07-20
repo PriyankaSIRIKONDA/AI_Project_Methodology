@@ -1,0 +1,10 @@
+artifact_location: file:///Users/purnimaprabha/Downloads/AI%20Project%20Methodology-1/churn-prediction/mlruns/687629321173515421/models/m-83e64aad9c474d6d9083a9915f8640f0/artifacts
+creation_timestamp: 1753019442328
+experiment_id: '687629321173515421'
+last_updated_timestamp: 1753019593808
+model_id: m-83e64aad9c474d6d9083a9915f8640f0
+model_type: null
+name: model
+source_run_id: 8c59bb146d474f5982750c93b3432b80
+status: 2
+status_message: null

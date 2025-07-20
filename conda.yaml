@@ -1,0 +1,17 @@
+name: churn-prediction
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - pandas
+      - numpy
+      - scikit-learn
+      - mlflow
+      - joblib
+      - fastapi
+      - uvicorn
+      - pydantic
+      - shap
+channels:
+  - defaults
+  - conda-forge 

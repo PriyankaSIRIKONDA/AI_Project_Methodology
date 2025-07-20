@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/purnimaprabha/Downloads/AI%20Project%20Methodology-1/churn-prediction/mlruns/687629321173515421/8c59bb146d474f5982750c93b3432b80/artifacts
+end_time: 1753019594703
+entry_point_name: ''
+experiment_id: '687629321173515421'
+lifecycle_stage: active
+run_id: 8c59bb146d474f5982750c93b3432b80
+run_name: caring-kit-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753019123335
+status: 3
+tags: []
+user_id: purnimaprabha
